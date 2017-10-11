@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeWars Permutations", "CodeWars Permutations\CodeWars Permutations.csproj", "{5349991B-5045-4B02-B680-317E83DF41EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5349991B-5045-4B02-B680-317E83DF41EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5349991B-5045-4B02-B680-317E83DF41EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5349991B-5045-4B02-B680-317E83DF41EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5349991B-5045-4B02-B680-317E83DF41EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5316AE-1B9A-43EE-8DE1-25D4F6FC2C29}
+	EndGlobalSection
+EndGlobal
