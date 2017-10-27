@@ -1,4 +1,5 @@
 # Permutations in C# (CodeWars 4kyu)
+## To see the code, open the folder and then open "Program.cs."
 ## My solution in english...I sequence through the source string creating new permutations by inserting the new character between all the spaces in each of the previous generation's permutations.  In the end, I only return the permutations that have the same length as the input.  For example: 
 input = "1234"
 first round:  1
